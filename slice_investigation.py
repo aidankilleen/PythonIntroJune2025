@@ -1,8 +1,6 @@
 # slice_investigation.py
 
-
 message = "this is a message!"
-
 
 print (f"Length:{len(message)}")
 
