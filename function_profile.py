@@ -1,6 +1,6 @@
 # function_profile.py
 
-from time import time # #include in c equivalent
+from time import time 
 
 t_start = time()
 
