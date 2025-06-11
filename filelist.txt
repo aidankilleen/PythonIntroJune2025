@@ -1,0 +1,55 @@
+
+C:\work\training\python\pythonintroJune2025>powershell -command "Get-ChildItem | Sort-Object CreationTime | Select-Object CreationTime, Name" 
+
+CreationTime        Name                               
+------------        ----                               
+09/06/2025 09:32:29 hello_world.py                     
+09/06/2025 10:00:16 building_blocks.py                 
+09/06/2025 11:22:34 intro_to_strings.py                
+09/06/2025 11:46:40 print_investigation.py             
+09/06/2025 11:57:12 input_investigation.py             
+09/06/2025 12:09:11 string_split_investigation.py      
+09/06/2025 12:15:34 slice_investigation.py             
+09/06/2025 13:36:44 list_slice_investigation.py        
+09/06/2025 13:43:17 tuple_investigation.py             
+09/06/2025 14:00:32 tuple_uses.py                      
+09/06/2025 14:25:04 dictionary_investigation.py        
+09/06/2025 15:13:08 set_investigation.py               
+09/06/2025 15:23:05 word_count.py                      
+09/06/2025 15:42:14 random_investigation.py            
+09/06/2025 15:58:34 function_profile.py                
+10/06/2025 09:13:37 import_investigation1.py           
+10/06/2025 09:14:32 import_investigation2.py           
+10/06/2025 09:16:59 import_investigation3.py           
+10/06/2025 09:19:56 import_investigation4.py           
+10/06/2025 09:24:47 module_investigation.py            
+10/06/2025 09:27:16 module_call.py                     
+10/06/2025 09:28:19 __pycache__                        
+10/06/2025 09:39:48 date_investigation.py              
+10/06/2025 09:58:19 pyfiglet_investigation.py          
+10/06/2025 10:15:47 error_investigation.py             
+10/06/2025 11:18:19 file_read_investigation.py         
+10/06/2025 11:21:18 test.txt                           
+10/06/2025 11:29:22 file_write_investigation.py        
+10/06/2025 11:30:44 output.txt                         
+10/06/2025 11:35:44 names.txt                          
+10/06/2025 11:37:21 file_read_line_by_line.py          
+10/06/2025 11:52:13 command_line_investigation.py      
+10/06/2025 12:11:48 stdin_input_investigation.py       
+10/06/2025 12:24:26 lc.py                              
+10/06/2025 14:02:15 inline_conditional_investigation.py
+10/06/2025 14:16:10 list_comprehension_investigation.py
+10/06/2025 14:33:55 range_investigation.py             
+10/06/2025 15:08:37 for_else_investigation.py          
+10/06/2025 15:18:47 for_else_search.py                 
+10/06/2025 15:28:30 sqlite                             
+10/06/2025 15:28:59 sqlite_investigation.py            
+11/06/2025 08:50:28 listfiles_bycreationdate.bat       
+11/06/2025 09:15:11 oop_investigation.py               
+11/06/2025 10:18:19 PlayingCards.py                    
+11/06/2025 10:30:13 binary_investigation.py            
+11/06/2025 11:13:03 tk_investigation.py                
+11/06/2025 12:13:41 SampleNotebook.ipynb               
+11/06/2025 12:40:45 filelist.txt                       
+
+
